@@ -1,0 +1,10 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+}
+.result {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+}
